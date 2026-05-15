@@ -110,4 +110,4 @@ R1#
 
 ## 📎 Arquivo do Lab
 
-> Coloque o arquivo `.pka` nesta pasta para abrir no Cisco Packet Tracer.
+> Coloque o arquivo `Uso do Telnet e SSH.pka` nesta pasta para abrir no Cisco Packet Tracer.
